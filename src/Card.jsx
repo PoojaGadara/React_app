@@ -15,9 +15,8 @@ const Card = (props) => {
                                         <NavLink to="/Home" className="btn btn-primary">Check Now</NavLink>
                                     </div>
                             </div>
-                            </div>
-                      </>
-        
+                        </div>
+        </>
     );
 
 }
